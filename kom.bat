@@ -1,0 +1,1 @@
+bcc32 -Ic:\program\bc5\include ooinl1.cpp grafik.cpp poker.cpp kort.cpp spel.cpp net.cpp cards.rc ooinl1.rc
